@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Réalisations
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Une collection de mes réalisations en cours ou achevées.
 nav: true
 ---
 
