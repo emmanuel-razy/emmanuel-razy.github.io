@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Emmanuel
-middle_name: R.
+middle_name:
 last_name: RAZY
 email: emmanuel.razy@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -59,7 +59,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Pour me contacter merci privilégier le téléphone, n'hésitez pas à me laissez un message s'y vous ne parvenez pas à me joindre.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID

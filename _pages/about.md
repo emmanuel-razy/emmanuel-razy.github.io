@@ -1,8 +1,8 @@
 ---
 layout: about
-title: A propos
+title: A-propos
 permalink: /
-description: <a href="#">Architecte</a> diplomé de l'école XXX, <a href="#">Designeur</a> & <a href="#">Professeur</a> en qualité de XXX au lycée XXX.
+description: <a href="#">Architecte</a>, <a href="#">Designeur</a> & <a href="#">Professeur</a>.
 
 profile:
   align: right

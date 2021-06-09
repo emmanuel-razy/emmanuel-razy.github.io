@@ -1,77 +1,85 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: Verrière et ??? pour un loft (Paris - XIIème)
+description: Un projet de xxx réalisé en xx/xx/xxxx pour xxxx
+img: /assets/img/project_2/2.jpg
 importance: 2
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Blablabla Blablabla Blablabla Blablabla Blablabla Blablabla Blablabla Blablabla Blablabla 
+Blablabla 
+Blablabla Blablabla Blablabla Blablabla 
+Blablabla 
+Blablabla Blablabla Blablabla Blablabla 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Séjour:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Pour le séjour les travaux réalisés sont :
+
++ Truc #1
++ Truc #2
++ Truc #3
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/1.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_2/1.jpg' | relative_url }}" alt="" title="Titre image 1"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/3.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_2/4.jpg' | relative_url }}" alt="" title="Titre image 2"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_2/6.jpg' | relative_url }}" alt="" title="Titre image 2"/>
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Réalisation de xxx pour le séjour de ce loft parisien.
 </div>
+
+## Cuisine:
+
+Dans la cuisine le client souhaitait installer une verrière, le cahier des charges pour la réalisation de cette verrière était :
+
++ Emploi d'acier pour la réalisation de la structure
++ Utilisation de vitre en ...
++ Installation d'une porte coulissante par soucis d'espace
+
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
+    <div class="col-sm mt-2 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_2/2.jpg' | relative_url }}" alt="" title="Titre image 1"/>
+    </div>
+    <div class="col-sm mt-2 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_2/5.jpg' | relative_url }}" alt="" title="Titre image 2"/>
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+	Verrière métallique à porte coulissante réalisée pour isoler la cuisine du reste du séjour.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
+## Salle d'eau:
+Blabla
+<div class="col-sm mt-1 mt-md-0">
+    <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_2/3.jpg' | relative_url }}" alt="" title="Titre image 1"/>
+</div>
+<div class="caption">
+	blabla
+</div>
 
+## Extérieur:
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
+En extérieur de ce loft le client disposait d'espace inexploité et souhaitais mettre à profit celui pour xxx au moyen de yyy.
+Pour la réalisation de cet objet a été employé :
++ Truc #1
++ Truc #2
++ Truc #3
+
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_2/8.jpg' | relative_url }}" alt="" title="Titre image 1"/>
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
+    <div class="col-sm mt-2 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/project_2/9.jpg' | relative_url }}" alt="" title="Titre image 2"/>
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Réalisation de xxx pour le séjour de ce loft parisien.
 </div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```

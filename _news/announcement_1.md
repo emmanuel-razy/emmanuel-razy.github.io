@@ -1,7 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2011-09-01 00:00:00
 inline: true
 ---
 
-A simple inline announcement.
+**Ecole nationale supérieure d'architecture de Paris la Villette**
+<br>
+Architecte **HMONP** (**H**abilitation à l'exercice de la **M**aîtrise d'**Œ**uvre en son **N**om **P**ropre)
