@@ -17,8 +17,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Partant des métiers du bois, j'ai commencé ma vie professionnelle par le design, la fabrication et la restauration de mobilier. En suivant mes passions et mes clients, je conçois aujourd'hui des espaces intérieurs comme des extensions ou bâtiments neufs, principalement d'habitation, mais aussi des commerces et bureaux.
+Partant des métiers du bois, j'ai commencé ma vie professionnelle par le design, la fabrication et la restauration de mobilier. 
+En suivant mes passions et mes clients, je conçois aujourd'hui des espaces intérieurs comme des extensions ou bâtiments neufs, principalement d'habitation, mais aussi des commerces et bureaux.
+
 A mon compte depuis plus de 20 ans, mes multiples formations et expériences, des relations privilégiées avec une équipe de corps de métier, et la volonté de satisfaire mes clients me confèrent une vision globale et maîtrisée d'un projet d'architecture.
+
+Je dispose de deux ateliers pour être au plus proche des besoins de mes clients:
+- L'Orbrie (à une heure environ de Nantes et 1/2 heure de La Rochelle) en Vendée,
+- Champigny-sur-Marne (à moins de 10km de Paris) en Île-de-France.
+
+Sur cette page-web vous trouverez quelques unes de mes réalisations.
+
+<div class="container">
+    <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ILh6i2rIwnfozhphWhoao3tav8nMgAxm" width="640" height="480"></iframe>
+</div>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
